@@ -1,0 +1,7 @@
+pandas>=2.0
+sodapy>=2.2
+python-dotenv>=1.0
+psycopg2-binary>=2.9
+matplotlib>=3.7
+tabulate>=0.9
+prefect>=3.0
