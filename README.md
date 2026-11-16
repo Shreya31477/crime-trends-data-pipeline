@@ -1,3 +1,7 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shreya31477/crime-trends-data-pipeline/blob/main/Shreya_Das_PAI102_Crime_Trends_Pipeline.ipynb)
+
+**Live dashboard (AWS):** http://13.201.193.195:3000/public/dashboard/989c463e-ed16-48ac-84df-fb455e968475
+
 # Data Pipeline to Monitor Local Crime Trends (PAI102)
 
 ETL pipeline for the Cambridge (MA) Police Daily Log:
